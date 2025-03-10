@@ -8,6 +8,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
+
+
 📖 Project Overview
 This project involves:
 
@@ -15,6 +17,8 @@ Data Architecture: Designing a Modern Data Warehouse Using Medallion Architectur
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+
+
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
 SQL Development
@@ -23,6 +27,8 @@ Data Engineering
 ETL Pipeline Developer
 Data Modeling
 Data Analytics
+
+
 🛠️ Important Links & Tools:
 Everything is for Free!
 
@@ -33,6 +39,9 @@ Git Repository: Set up a GitHub account and repository to manage, version, and c
 DrawIO: Design data architecture, models, flows, and diagrams.
 Notion: All-in-one tool for project management and organization.
 Notion Project Steps: Access to All Project Phases and Tasks.
+
+
+
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 Objective
@@ -83,6 +92,7 @@ data-warehouse-project/
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
-Hi there! I'm Baraa Khatib Salkini, also known as Data With Baraa. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi the
+!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
